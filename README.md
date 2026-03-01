@@ -9,7 +9,7 @@ Clone the repository
 git clone https://github.com/bharath-thampi/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
 ```
 
-# STEP-1 Create a conda evironment after opening the repository
+### STEP-1 Create a conda evironment after opening the repository
 
 ```bash
 conda create -n medibot python=3.10 -y
